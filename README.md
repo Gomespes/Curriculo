@@ -7,7 +7,7 @@
 #Sobre mim
 
 -📒 Atualmente estou estudando sobre programação web<br>
--🖥️ Aprendendo sobre Html, JavaScript<br>
+-🖥️ Aprendendo sobre Html e JavaScript<br>
 -🖥️ Estou me Aperfeiçoando em Java<br>
 
 #SKILLS
